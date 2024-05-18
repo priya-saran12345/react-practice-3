@@ -1,0 +1,27 @@
+.btn1{
+    background-color: black;
+    border-radius: 5px;
+    color:white;
+    padding: 6px 20px;
+
+}
+.btn2{
+    background-color: white;
+    border-radius: 5px;
+    color:black;
+    padding: 6px 20px;
+    width: 100%;
+
+}
+.div_upper{
+    position:relative;
+}
+.div_upper input{
+    padding: 7px;
+}
+.div_upper label{
+    position: absolute;
+    left: 30px;
+    top: -12px;
+    background-color: white;
+}
